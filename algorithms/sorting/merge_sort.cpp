@@ -71,7 +71,8 @@ int main()
             cout<<a[i]<<"\t";
         }
     merge_sort(a,0,n-1);
-    cout<<"\nThe sorted array is:\n";
+    cout<<"\nThe array is sorted successfully";
+    cout<<"\nThe array after sorting is:\n";
     for(i=0;i<n;i++)
     {
         cout<<a[i]<<"\t";
