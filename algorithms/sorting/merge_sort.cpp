@@ -57,6 +57,8 @@ void merge_sort(int a[],int p,int r)
 }
 int main()
 {
+    
+    // it is an divide and conquer algo
     int n,i;
     cout<<"\nEnter the number of elements:";
     cin>>n;
